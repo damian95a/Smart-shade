@@ -1,0 +1,15 @@
+.\objects\mylcd.o: src\MyLCD.c
+.\objects\mylcd.o: include\MyLCD.h
+.\objects\mylcd.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.6.1\Device\Include\LPC17xx.h
+.\objects\mylcd.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm3.h
+.\objects\mylcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mylcd.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\mylcd.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\mylcd.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\mylcd.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\mpu_armv7.h
+.\objects\mylcd.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.6.1\Device\Include\system_LPC17xx.h
+.\objects\mylcd.o: lcd_lib\Open1768_LCD.h
+.\objects\mylcd.o: lcd_lib\LCD_ILI9325.h
+.\objects\mylcd.o: lcd_lib\asciiLib.h
+.\objects\mylcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\mylcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
